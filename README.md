@@ -20,16 +20,5 @@ This is a classic Snake game built with HTML, CSS, and JavaScript.
 - Score tracking: Keep track of your current and high scores.
 - Speed adjustment: The game speed increases as the snake grows longer.
 
-## Screenshots
 
-![Gameplay](screenshots/gameplay.png)
-
-## Credits
-
-- Fonts: [VT323](https://fonts.google.com/specimen/VT323) from Google Fonts.
-- Snake icon: [Snake Icon](https://www.flaticon.com/free-icon/snake_1423050) by Freepik from Flaticon.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
