@@ -21,4 +21,7 @@ This is a classic Snake game built with HTML, CSS, and JavaScript.
 - Speed adjustment: The game speed increases as the snake grows longer.
 
 
+This challenge corresponds to the Coding Challenges by John Crickett https://codingchallenges.fyi/challenges/challenge-snake
+
+
 
